@@ -1,5 +1,3 @@
-# Advanced Programming Project - Spring 2021
-## Team 32
+# Advanced Programming Project - Spring 2021- Zohre Abbasi liasi
 
-### Team Members:
-- zohre abbasi 98105881
+A console-interact version of Yu-Gi-Oh implemented in java.
