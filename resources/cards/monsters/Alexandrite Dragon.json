@@ -1,0 +1,12 @@
+{
+  "level": 4,
+  "MonsterType": "Dragon",
+  "attribute": "LIGHT",
+  "cardType": "Normal",
+  "ATK": 2000,
+  "DEF": 100,
+  "type": "MONSTER",
+  "name": "Alexandrite Dragon",
+  "description": "Many of the czars\u0027 lost jewels can be found in the scales of this priceless dragon. Its creator remains a mystery, along with how they acquired the imperial treasures. But whosoever finds this dragon has hit the jackpot... whether they know it or not.",
+  "price": 2600
+}

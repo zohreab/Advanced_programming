@@ -1,0 +1,12 @@
+{
+  "level": 4,
+  "MonsterType": "Warrior",
+  "attribute": "EARTH",
+  "cardType": "Normal",
+  "ATK": 1700,
+  "DEF": 1150,
+  "type": "MONSTER",
+  "name": "Axe Raider",
+  "description": "An axe-wielding monster of tremendous strength and agility.",
+  "price": 3100
+}

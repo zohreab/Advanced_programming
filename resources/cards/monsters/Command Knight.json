@@ -1,0 +1,12 @@
+{
+  "level": 4,
+  "MonsterType": "Warrior",
+  "attribute": "Fire",
+  "cardType": "Effect",
+  "ATK": 1000,
+  "DEF": 1000,
+  "type": "MONSTER",
+  "name": "Command Knight",
+  "description": "All Warrior-Type monsters you control gain 400 ATK. If you control another monster, monsters your opponent controls cannot target this card for an attack.",
+  "price": 2100
+}
